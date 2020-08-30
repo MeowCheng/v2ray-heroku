@@ -21,12 +21,16 @@
 ### UUID
 
 `UUID` > `一个 UUID，供用户连接时验证身份使用`。
+### AlterID
+
+`AlterID` > `AlterID`。
+### Protocol
+
+`Protocol` > `协议 vmess / vless`。
 
 ## 注意
 
 WebSocket 路径为 `/`。
-
-`alterId` 为 `64`。
 
 V2Ray 将在部署时自动安装最新版本。
 
