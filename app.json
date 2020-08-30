@@ -10,6 +10,7 @@
         "PROTOCOL":{
             "description": "Protocol choose from VMESS and VLESS(NEW)"
             "value": "vmess"
+        }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
     "repository": "https://github.com/bclswl0827/v2ray-heroku",
