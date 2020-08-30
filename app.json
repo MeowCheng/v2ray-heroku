@@ -10,6 +10,10 @@
         "PROTOCOL":{
             "description": "Protocol choose from VMESS and VLESS(NEW)",
             "value": "vmess"
+        },
+        "ALTERID":{
+            "description": "AlterID lower is better for low-memory devices",
+            "value": "2"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
